@@ -1,16 +1,24 @@
-## Hi there 👋
+<!-- Banner -->
+<img src="https://i.imgur.com/Fx3bA5N.png" alt="Banner" width="100%"/>
 
-<!--
-**Sylvana74/Sylvana74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Hola, soy Sylvana Luzuriaga! 👋
 
-Here are some ideas to get you started:
+💻 Estudiante y entusiasta del desarrollo de software  
+🎯 Apasionada por la tecnología, la lógica y el aprendizaje constante  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías que estoy aprendiendo
+- 🐍 Python
+- 💻 C++
+- 🌐 Node.js
+- 🗄️ SQL
+
+## 📊 GitHub Stats
+
+![Sylvana's GitHub stats](https://github-readme-stats.vercel.app/api?username=sylvanaluzuriaga&show_icons=true&theme=radical)
+
+---
+
+## 📫 Puedes contactarme
+[![LinkedIn](www.linkedin.com/in/sylvana-luzuriaga
+
+> “La perseverancia es el camino al éxito.” – Charles Chaplin
