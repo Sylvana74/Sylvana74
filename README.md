@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://via.placeholder.com/1000x300.png?text=Syls" alt="Syls Banner" width="100%"/>
+!http://googleusercontent.com/image_generation_content/1
 
 # ¡Hola, soy Sylvana Luzuriaga! 👋
 
