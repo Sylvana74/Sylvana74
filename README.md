@@ -1,5 +1,5 @@
 <!-- Banner -->
-!http://googleusercontent.com/image_generation_content/1
+(https://www.canva.com/design/DAGrXiiMPfI/Es4rSK7RviSAsGvGi_Ybzg/edit?utm_content=DAGrXiiMPfI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 # ¡Hola, soy Sylvana Luzuriaga! 👋
 
