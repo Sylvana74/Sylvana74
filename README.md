@@ -1,5 +1,5 @@
 <!-- Banner -->
-http://googleusercontent.com/image_generation_content/1
+!http://googleusercontent.com/image_generation_content/1
 
 # ¡Hola, soy Sylvana Luzuriaga! 👋
 
