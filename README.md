@@ -1,8 +1,7 @@
 
 <p align="center">
-  <img src="https://github.com/Sylvana74/Sylvana74/blob/main/ChatGPT%20Image%2027%20jun%202025%2C%2019_42_21.png?raw=true" alt="Banner Syls" width="100%" style="max-width: 600px;" />
+  <img src="https://github.com/Sylvana74/Sylvana74/blob/main/ChatGPT%20Image%2027%20jun%202025%2C%2019_42_21.png?raw=true" alt="Banner Syls" width="400" />
 </p>
-
 
 
 # ¡Hola, soy Sylvana Luzuriaga! 👋
