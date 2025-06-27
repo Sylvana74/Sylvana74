@@ -1,5 +1,6 @@
 <!-- Banner -->
-ChatGPT Image 27 jun 2025, 19_42_21.png
+![Syls Banner](https://github.com/Sylvana74/Sylvana74/blob/main/image 27 jun 2025, 19_42_21png)
+
 
 # ¡Hola, soy Sylvana Luzuriaga! 👋
 
