@@ -1,5 +1,5 @@
 <!-- Banner -->
-
+ChatGPT Image 27 jun 2025, 19_42_21.png
 
 # ¡Hola, soy Sylvana Luzuriaga! 👋
 
