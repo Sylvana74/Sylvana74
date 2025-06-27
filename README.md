@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Syls Banner](https://github.com/Sylvana74/Sylvana74/blob/main/image 27 jun 2025, 19_42_21png)
+(https://github.com/Sylvana74/Sylvana74/blob/main/ChatGPT%20Image%2027%20jun%202025%2C%2019_42_21.png)
 
 
 # ¡Hola, soy Sylvana Luzuriaga! 👋
